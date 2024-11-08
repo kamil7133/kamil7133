@@ -20,7 +20,12 @@ Here are a few projects that showcase my skills and learning progress:
 - **Tools**: PyCharm (terminal), MacBook for coding, and desktop PC with GTX 1660 Super for CUDA tasks
 
 ### 📈 Goals
-I’m aiming to build a robust portfolio with real-world projects, apply for an **AI Developer** role, and further my skills in AI and data science. I plan to add 50+ LeetCode solutions, ML projects, and function tests in my GitHub repos, alongside certifications like **TensorFlow Developer** and **Microsoft Azure AI Engineer**.
+I’m working towards building a strong portfolio with real-world projects and am aiming to apply for roles like **AI Developer**, **AI Engineer**, **Machine Learning Engineer**, or **Data Scientist** within the next year. I plan to specialize in **AI and Data Science** at WSB Merito and further enhance my skills in these areas. 
+
+In addition, I am focused on solving 50+ LeetCode problems, developing machine learning projects, and adding function tests to my GitHub repositories. I’m also planning to earn some certifications like **TensorFlow Developer** and **Microsoft Azure AI Engineer**. 
+
+Looking ahead, I intend to expand my expertise by learning **Java**, exploring its applications in AI and software engineering.
+
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kamil-piwowarczyk-6ba839322/)
