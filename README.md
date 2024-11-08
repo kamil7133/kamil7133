@@ -8,7 +8,8 @@ With experience as an IT technician and coursework in Python and SQL, I am stead
 ### 📁 Featured Projects
 Here are a few projects that showcase my skills and learning progress:
 
-- **[LeetCode Solutions](https://github.com/kamil7133)**: Solving problems on LeetCode and documenting solutions in Python to strengthen algorithmic thinking and coding skills.
+- **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**: A data analysis project using Python libraries like Pandas, Matplotlib, and Seaborn to explore, visualize, and derive insights from weather datasets. This project demonstrates skills in data cleaning, visualization, and exploratory data analysis.
+
 - **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**: An algorithm to merge two singly linked lists, along with Pytest unit tests.
 
 ### 🛠️ Tools & Technologies
