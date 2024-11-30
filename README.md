@@ -5,12 +5,30 @@ I'm a 20-year-old Computer Science student at WSB Merito, currently focusing on 
 
 With experience as an IT technician and coursework in Python and SQL, I am steadily building a strong foundation in **Big Data** and **Machine Learning**. I recently transitioned from geoinformatics to computer science to fully dedicate myself to data science, algorithms, and AI.
 
+
 ### 📁 Featured Projects
 Here are a few projects that showcase my skills and learning progress:
 
-- **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**: A data analysis project using Python libraries like Pandas, Matplotlib, and Seaborn to explore, visualize, and derive insights from weather datasets. This project demonstrates skills in data cleaning, visualization, and exploratory data analysis.
+- **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**  
+  A data analysis project using Python libraries like Pandas, Matplotlib, and Seaborn to explore, visualize, and derive insights from weather datasets.  
+  **Highlights:**  
+  - Data cleaning and preprocessing  
+  - Exploratory data analysis (EDA)  
+  - Creating insightful visualizations  
 
-- **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**: An algorithm to merge two singly linked lists, along with Pytest unit tests.
+- **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
+  An algorithm to merge two singly linked lists into a sorted list.  
+  **Highlights:**  
+  - Functions to handle conversion between Python lists and singly linked lists  
+  - Comprehensive Pytest unit tests for edge cases like empty lists, duplicates, and varying list lengths  
+  - Demonstrates data structure manipulation and test-driven development  
+
+- **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/ai-article-html-converter)**  
+  An AI-driven application that transforms text articles into semantic HTML using OpenAI's API.  
+  **Highlights:**  
+  - Converts text articles into structured HTML with detailed image placeholders (`alt` attributes and captions)  
+  - Focuses on modularity, robust error handling, and integration with AI models  
+  - Includes automated setup and streamlined execution for enhanced usability  
 
 ### 🛠️ Tools & Technologies
 - **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, PHP
