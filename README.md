@@ -23,7 +23,7 @@ Here are a few projects that showcase my skills and learning progress:
   - Comprehensive Pytest unit tests for edge cases like empty lists, duplicates, and varying list lengths  
   - Demonstrates data structure manipulation and test-driven development  
 
-- **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/ai-article-html-converter)**  
+- **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/AI_article_formatter)**  
   An AI-driven application that transforms text articles into semantic HTML using OpenAI's API.  
   **Highlights:**  
   - Converts text articles into structured HTML with detailed image placeholders (`alt` attributes and captions)  
