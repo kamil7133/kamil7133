@@ -41,8 +41,6 @@ Here are a few projects that showcase my skills and learning progress:
 ### 📈 Goals
 I’m working towards building a strong portfolio with real-world projects and am aiming to apply for roles like **AI Developer**, **AI Engineer**, **Machine Learning Engineer**, or **Data Scientist** within the next year. I plan to specialize in **AI and Data Science** at WSB Merito and further enhance my skills in these areas. 
 
-In addition, I am focused on solving 50+ LeetCode problems, developing machine learning projects, and adding function tests to my GitHub repositories. I’m also planning to earn some certifications like **TensorFlow Developer** and **Microsoft Azure AI Engineer**. 
-
 Looking ahead, I intend to expand my expertise by learning **Java**, exploring its applications in AI and software engineering.
 
 
