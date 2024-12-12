@@ -38,12 +38,6 @@ Here are a few projects that showcase my skills and learning progress:
 - **Version Control**: Git, GitHub
 - **Tools**: PyCharm (terminal), MacBook for coding, desktop PC with GTX 1660 Super for CUDA tasks, **Linux (Ubuntu) on Virtual Machine in Azure** for cloud-based development and testing.
 
-### 📈 Goals
-I’m working towards building a strong portfolio with real-world projects and am aiming to apply for roles like **AI Developer**, **AI Engineer**, **Machine Learning Engineer**, or **Data Scientist** within the next year. I plan to specialize in **AI and Data Science** at WSB Merito and further enhance my skills in these areas. 
-
-Looking ahead, I intend to expand my expertise by learning **Java**, exploring its applications in AI and software engineering.
-
-
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kamil-piwowarczyk-6ba839322/)
 - [GitHub](https://github.com/kamil7133)
