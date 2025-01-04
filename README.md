@@ -10,12 +10,12 @@ With experience as an IT technician and coursework in Python and SQL, I am stead
 Here are a few projects that showcase my skills and learning progress:
 
 - **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**  
-  A comprehensive data analysis project leveraging Python libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, visualize, and model weather data. This project provides actionable insights into weather    patterns and incorporates predictive modeling to forecast temperatures.
+    A comprehensive data analysis project leveraging Python libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, visualize, and model weather data. This project provides actionable insights into weather patterns and incorporates predictive modeling to forecast temperatures.
   **Highlights:**
-  -Data Cleaning and Preprocessing: Handling missing values, converting data types, and engineering features for analysis.
-  -Exploratory Data Analysis (EDA): Investigating trends, seasonality, and regional variations in weather metrics.
-  -Insightful Visualizations: Generating clear and informative plots, including trend lines, seasonal variations, and heatmaps.
-  -Predictive Modeling: Using regression techniques to forecast temperature based on key weather parameters. 
+  - Data Cleaning and Preprocessing: Handling missing values, converting data types, and engineering features for analysis.
+  - Exploratory Data Analysis (EDA): Investigating trends, seasonality, and regional variations in weather metrics.
+  - Insightful Visualizations: Generating clear and informative plots, including trend lines, seasonal variations, and heatmaps.
+  - Predictive Modeling: Using regression techniques to forecast temperature based on key weather parameters. 
 
 - **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
   An algorithm to merge two singly linked lists into a sorted list.  
