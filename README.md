@@ -20,14 +20,16 @@ Here are a few projects that showcase my skills and learning progress:
   - Predictive Modeling: Using regression techniques to forecast temperature based on key weather parameters.
 
 - **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
-  An algorithm to merge two singly linked lists into a sorted list.  
+  An algorithm to merge two singly linked lists into a sorted list.
+  
   **Highlights:**  
   - Functions to handle conversion between Python lists and singly linked lists  
   - Comprehensive Pytest unit tests for edge cases like empty lists, duplicates, and varying list lengths  
   - Demonstrates data structure manipulation and test-driven development  
 
 - **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/AI_article_formatter)**  
-  An AI-driven application that transforms text articles into semantic HTML using OpenAI's API.  
+  An AI-driven application that transforms text articles into semantic HTML using OpenAI's API.
+  
   **Highlights:**  
   - Converts text articles into structured HTML with detailed image placeholders (`alt` attributes and captions)  
   - Focuses on modularity, robust error handling, and integration with AI models  
