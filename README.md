@@ -11,7 +11,7 @@ Here are a few projects that showcase my skills and learning progress:
 
 - **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**  
     A comprehensive data analysis project leveraging Python libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, visualize, and model weather data. This project provides actionable insights into weather patterns and incorporates predictive modeling to forecast temperatures.
-  **Highlights:**
+      **Highlights:**
   - Data Cleaning and Preprocessing: Handling missing values, converting data types, and engineering features for analysis.
   - Exploratory Data Analysis (EDA): Investigating trends, seasonality, and regional variations in weather metrics.
   - Insightful Visualizations: Generating clear and informative plots, including trend lines, seasonal variations, and heatmaps.
