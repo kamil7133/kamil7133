@@ -1,47 +1,69 @@
+
 # Hi there! I'm Kamil Piwowarczyk 👋
 
 ### 💻 About Me
-I'm a 20-year-old Computer Science student at WSB Merito, currently focusing on **Data Science** and **Artificial Intelligence**. My journey in IT began in 2019 with web development, working with HTML, CSS, JavaScript, SQL, and PHP. Over time, I shifted my focus to Python, algorithms, and machine learning as I became passionate about data and AI-driven technologies.
+Hey! I'm Kamil, a **20-year-old Computer Science student** at WSB Merito. My main interests revolve around **Data Science**, **Machine Learning**, and **Artificial Intelligence**, but I started my IT journey back in 2019, tinkering with web development tools like HTML, CSS, JavaScript, and PHP. Over time, Python and algorithms became my main focus.
 
-With experience as an IT technician and coursework in Python and SQL, I am steadily building a strong foundation in **Big Data** and **Machine Learning**. I recently transitioned from geoinformatics to computer science to fully dedicate myself to data science, algorithms, and AI.
+I’m a curious learner who enjoys solving problems with code, exploring data, and building projects that challenge me. My goal is simple: keep improving while working on things I enjoy.
 
+---
 
-### 📁 Featured Projects
-Here are a few projects that showcase my skills and learning progress:
+### 📁 Projects I’m Proud Of
+Here are a few projects I’ve worked on:
 
-- **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**
+#### 🗂️ **[Task Management System with Scrum Elements](https://github.com/kamil7133/task_management_system)**  
+A web app for managing projects, sprints, and tasks, with a focus on Scrum principles.  
+**Highlights**:  
+- Interactive **Kanban board** for task management.  
+- Full **CRUD functionality** for projects, sprints, and tasks.  
+- Backend built with Flask and integrated with SQLite.  
+- Sprint velocity tracking and CSV export for reports.  
 
-    A comprehensive data analysis project leveraging Python libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, visualize, and model weather data. This project provides actionable insights into weather patterns and incorporates predictive modeling to forecast temperatures.    
-    **Highlights:**
-  - Data Cleaning and Preprocessing: Handling missing values, converting data types, and engineering features for analysis.
-  - Exploratory Data Analysis (EDA): Investigating trends, seasonality, and regional variations in weather metrics.
-  - Insightful Visualizations: Generating clear and informative plots, including trend lines, seasonal variations, and heatmaps.
-  - Predictive Modeling: Using regression techniques to forecast temperature based on key weather parameters.
+---
 
-- **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
-  An algorithm to merge two singly linked lists into a sorted list.    
-  **Highlights:**  
-  - Functions to handle conversion between Python lists and singly linked lists  
-  - Comprehensive Pytest unit tests for edge cases like empty lists, duplicates, and varying list lengths  
-  - Demonstrates data structure manipulation and test-driven development  
+#### 📊 **[Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)**  
+An end-to-end data analysis project exploring weather patterns and trends.  
+**Highlights**:  
+- Cleaned and preprocessed messy datasets for analysis.  
+- Created detailed visualizations using Pandas, Matplotlib, and Seaborn.  
+- Built a regression model to predict temperature changes.  
 
-- **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/AI_article_formatter)**  
-  An AI-driven application that transforms text articles into semantic HTML using OpenAI's API.    
-  **Highlights:**  
-  - Converts text articles into structured HTML with detailed image placeholders (`alt` attributes and captions)  
-  - Focuses on modularity, robust error handling, and integration with AI models  
-  - Includes automated setup and streamlined execution for enhanced usability  
+---
 
-### 🛠️ Tools & Technologies
-- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript, PHP
-- **Machine Learning**: TensorFlow, PyTorch (for CNNs, RNNs)
-- **Data Science**: Pandas, NumPy, Scikit-Learn
-- **Big Data Tools**: (Learning stage)
-- **Version Control**: Git, GitHub
-- **Tools**: PyCharm (terminal), MacBook for coding, desktop PC with GTX 1660 Super for CUDA tasks, **Linux (Ubuntu) on Virtual Machine in Azure** for cloud-based development and testing.
+#### 🤖 **[AI-Powered Article to HTML Converter](https://github.com/kamil7133/AI_article_formatter)**  
+An AI-driven tool that converts plain text into well-structured HTML documents.  
+**Highlights**:  
+- Integrated OpenAI's API for natural language processing.  
+- Designed for modularity with error handling.  
+- Automates a tedious task, making it faster and more efficient.  
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kamil-piwowarczyk-6ba839322/)
-- [GitHub](https://github.com/kamil7133)
+---
 
-Let's connect if you’re interested in AI, machine learning, or just want to chat about tech and projects!
+#### 🧪 **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
+A straightforward algorithm project to merge two singly linked lists, with a focus on testing.  
+**Highlights**:  
+- Implemented a merge algorithm with edge-case handling.  
+- Used Pytest for unit testing, covering edge cases like empty lists and duplicates.  
+
+---
+
+### 🛠️ Tech I Work With
+#### **Languages**:  
+Python 🐍 | SQL 🗃️ | HTML/CSS 🌐 | JavaScript ⚡ | PHP  
+
+#### **Data Science & AI**:  
+Pandas 📊 | NumPy 🔢 | Scikit-learn 📈 | TensorFlow 🤖 | PyTorch 🔥  
+
+#### **Tools**:  
+- Git & GitHub for version control.  
+- PyCharm and VS Code as my go-to editors.  
+- SQLite for database management (learning PostgreSQL next!).  
+- Linux on Azure VMs for cloud-based projects.  
+
+---
+
+### 🤝 Let’s Connect!
+- **LinkedIn**: [Kamil Piwowarczyk](https://www.linkedin.com/in/kamil-piwowarczyk-6ba839322/)  
+- **GitHub**: [@kamil7133](https://github.com/kamil7133)  
+
+I’m always up for a chat about tech, ideas, or potential collaborations. Let’s build something cool together! 🚀
