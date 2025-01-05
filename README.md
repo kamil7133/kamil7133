@@ -17,7 +17,8 @@ A web app for managing projects, sprints, and tasks, with a focus on Scrum princ
 - Interactive **Kanban board** for task management.  
 - Full **CRUD functionality** for projects, sprints, and tasks.  
 - Backend built with Flask and integrated with SQLite.  
-- Sprint velocity tracking and CSV export for reports.  
+- Sprint velocity tracking and CSV export for reports.
+- [Proof-of-Concept](https://task-management-system-cdtw.onrender.com/projects/kanban)
 
 ---
 
