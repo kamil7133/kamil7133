@@ -11,6 +11,16 @@ I’m a curious learner who enjoys solving problems with code, exploring data, a
 ### 📁 Projects I’m Proud Of
 Here are a few projects I’ve worked on:
 
+#### 🧪 **[Credit Card Fraud Detection Project](https://github.com/kamil7133/fraud_detection)**  
+A comprehensive machine learning pipeline project focused on detecting fraudulent credit card transactions using various models, preprocessing techniques, and a minimal Streamlit demo.  
+**Highlights**:  
+- Developed a robust end-to-end pipeline handling imbalanced data with SMOTE, feature scaling, and hyperparameter tuning using GridSearchCV.  
+- Achieved near-perfect fraud detection performance with a finely tuned Random Forest classifier.
+- Deployed a user-friendly Streamlit application for real-time fraud predictions, ensuring consistent inference through proper model and scaler integration.
+- [Demo](https://huggingface.co/spaces/kamil713/fraud_detection)
+
+---
+
 #### 🗂️ **[Task Management System with Scrum Elements](https://github.com/kamil7133/task_management_system)**  
 A web app for managing projects, sprints, and tasks, with a focus on Scrum principles.  
 **Highlights**:  
@@ -40,13 +50,6 @@ An AI-driven tool that converts plain text into well-structured HTML documents.
 
 ---
 
-#### 🧪 **[Two Merged Lists with Pytest](https://github.com/kamil7133/test_two_merged_lists_with_pytest)**  
-A straightforward algorithm project to merge two singly linked lists, with a focus on testing.  
-**Highlights**:  
-- Implemented a merge algorithm with edge-case handling.  
-- Used Pytest for unit testing, covering edge cases like empty lists and duplicates.  
-
----
 
 ### 🛠️ Tech I Work With
 #### **Languages**:  
