@@ -12,13 +12,12 @@ I’m a curious learner who enjoys solving problems with code, exploring data, a
 Here are a few projects I’ve worked on:
 
 #### 🧪 **[Credit Card Fraud Detection Project](https://github.com/kamil7133/fraud_detection)**  
-A comprehensive machine learning pipeline project focused on detecting fraudulent credit card transactions using various models, preprocessing techniques, and a minimal Streamlit demo.  
-**Highlights**:  
-- Developed a robust end-to-end pipeline handling imbalanced data with SMOTE, feature scaling, and hyperparameter tuning using GridSearchCV.  
-- Achieved near-perfect fraud detection performance with a finely tuned Random Forest classifier.
-- Deployed a user-friendly Streamlit application for real-time fraud predictions, ensuring consistent inference through proper model and scaler integration.
+A full ML pipeline for detecting fraudulent credit card transactions, featuring advanced data preprocessing, model optimization, and a Streamlit-based demo interface.  
+- **Preprocessing & Balancing**: Cleaned data with Pandas, addressed class imbalance using SMOTE, and normalized features with Scikit-learn’s StandardScaler.  
+- **Modeling & Tuning**: Evaluated Logistic Regression, Random Forest, XGBoost, and Neural Networks; achieved exceptional performance with a Random Forest optimized via GridSearchCV.  
+- **Testing & Evaluation**: Applied cross-validation, unit tests with Pytest, and rigorous metrics (ROC-AUC, precision, recall, F1-score) for robust model assessment.  
+- **Deployment**: Developed a user-friendly Streamlit app integrated with the trained model and scaler for real-time fraud predictions, hosted on Hugging Face Spaces.
 - [Demo](https://huggingface.co/spaces/kamil713/fraud_detection)
-
 ---
 
 #### 🗂️ **[Task Management System with Scrum Elements](https://github.com/kamil7133/task_management_system)**  
