@@ -10,14 +10,16 @@
 ML pipeline for detecting fraudulent transactions:
 - Advanced data preprocessing (SMOTE, scaling)
 - Optimized Random Forest (GridSearchCV)
-- [Interactive demo](https://huggingface.co/spaces/kamil713/fraud_detection) (Streamlit & Hugging Face)
+- [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+](https://huggingface.co/spaces/kamil713/fraud_detection) (Interactive demo)
 
 ### [Task Management System](https://github.com/kamil7133/task_management_system)
 Lightweight web app for Scrum-based workflows:
 - Kanban-style board
 - Flask + SQLite backend with full CRUD
 - Sprint velocity tracking & CSV export
-- [Proof-of-Concept](https://task-management-system-cdtw.onrender.com/projects/kanban)
+- [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+](https://task-management-system-cdtw.onrender.com/projects/kanban) (Proof-of-concept)
 
 ### [Weather Data Analysis](https://github.com/kamil7133/Weather_Data_Analysis_with_Pandas_Matplotlib_and_Seaborn)
 Data exploration & forecasting:
