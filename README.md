@@ -1,6 +1,6 @@
 # Hi, I'm Kamil Piwowarczyk
 
-**Computer Science student @ WSB Merito** exploring **Data Science**, **AI**, from classic **Machine Learning** to advanced **Deep Learning**.
+**Computer Science student @ WSB Merito** and Junior Python/ML Engineer exploring **Data Science**, **AI**, from classic **Machine Learning** to advanced **Deep Learning**.
 
 ---
 
@@ -29,7 +29,7 @@ Data exploration & forecasting:
 
 ## Tech Stack
 
-**Languages**: Python, SQL, HTML/CSS, JavaScript, PHP  
+**Languages**: [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 **Data/ML**: Pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch  
 **Tools**: Git & GitHub, Neovim, PyCharm, SQLite, Azure VMs, Obsidian,
 
