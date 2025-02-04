@@ -43,4 +43,3 @@ Data exploration & forecasting:
 
 ---
 
-![Kamil7133 GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil7133&show_icons=true&theme=radical)
