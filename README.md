@@ -1,6 +1,6 @@
 # Hi, I'm Kamil Piwowarczyk
 
-**Computer Science student @ WSB Merito** and Junior Python/ML Engineer exploring **Data Science**, **AI**, from classic **Machine Learning** to advanced **Deep Learning**.
+**Computer Science student @ WSB Merito**
 
 ## 🛠 Tech Stack
 
