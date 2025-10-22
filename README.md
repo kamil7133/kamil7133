@@ -1,6 +1,6 @@
 # Hi, I'm Kamil Piwowarczyk
 
-**Data Engineer** **Computer Science student @ WSB Merito** **Data Engineer**
+**Data Engineer**  |  **Computer Science student @ WSB Merito** 
 
 ## 🛠 Tech Stack
 
